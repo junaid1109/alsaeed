@@ -6,9 +6,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12 text-center">
-                  <h3 class="section-title wow fadeInUp">AlsaeedTrad</h3>
-                  <p class="wow fadeInUp"> All Rights Reserved. Copyright © 2024 
-                  </p>
+                  <p class="wow fadeInUp"> All Rights Reserved. Copyright © 2024</p>
                   <ul class="social-icons subheading">
                      <li>
                         <a href="#">

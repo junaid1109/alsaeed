@@ -3,8 +3,11 @@
       <div class="container">
          <div class="row">
             <div class="col-md-12 text-center">
-               <h3 class="section-title wow fadeInUp">Contact us</h3>
-               <p class="subheading wow fadeInUp"> Let's Work Together. </p>
+               <h3 class="section-title wow fadeInUp"><?= $lang['contact_us']; ?></h3>
+               <p class="subheading wow fadeInUp"><?= $lang['contact_us_1']; ?>  <br>
+               <?= $lang['contact_us_2']; ?>
+             
+            </p>
             </div>
             <!-- <div class="col-md-7 wow fadeInUp">
                <div id="message"></div>
@@ -20,31 +23,20 @@
                   <input type="submit" class="submit" id="submit" value="Send Message" />
                </form>
             </div> -->
-            <div class="col-md-4 wow ">
-               <h4> United Arab Emirates  </h4>
+            <div class="col-md-6 wow ">
+               <h4> <?= $lang['uae']; ?>  </h4>
                <address>
                 Dubai Prime Tower<br>
                2306<br>
-               <strong> Phone </strong>: (971) 544-40244-4
+               <strong> <?= $lang['phone']; ?> </strong>: (971) 544-40244-4
                </address>
             </div>
-            <div class="col-md-4 wow ">
-               <h4> Iraq </h4>
+            <div class="col-md-6 wow ">
+               <h4> <?= $lang['contact_us']; ?> : </h4>
                <address>
-               795 Folsom Ave, Suite 600<br>
-               San Francisco, CA 94107<br>
-               <strong> Phone </strong>: (123) 456-7890
-               </address>
-            </div>
-            <div class="col-md-4 wow ">
-               <h4> Contact Us : </h4>
-               <address>
-               <strong> Phone </strong>
+               <strong> <?= $lang['phone']; ?> </strong>
                 : (971) 544-40244-4<br>
-               <strong>Fax </strong>
-                : (971) 544-40244-4 <br>
-             
-               <strong>Email </strong>
+               <strong><?= $lang['email']; ?> </strong>
                   : info@alsaeedtrad.com
                </address>
             </div>
