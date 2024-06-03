@@ -57,7 +57,6 @@
 <script type="text/javascript" src="./assets/js/plugins/jquery.min.js"></script>
 <script type="text/javascript" src="./assets/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/moderniz.min.js"></script>
-<script type="text/javascript" src="./assets/js/plugins/smoothscroll.min.js"></script>
 <script type="text/javascript" src="./assets/js/no-ui-slider/jquery.nouislider.all.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/revslider.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/waypoints.min.js"></script>
