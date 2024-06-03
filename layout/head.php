@@ -40,6 +40,9 @@ if ($language == "ar") {
 <link rel="stylesheet" href="./assets/css/font-awesome/css/font-awesome.css" type="text/css" />
 <link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
 <link rel="stylesheet" href="./assets/css/no-ui-slider/jquery.nouislider.css" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 
 <!-- Skin Color -->
 <link rel="stylesheet" href="./assets/css/colors/green.css" id="color-skins"/>

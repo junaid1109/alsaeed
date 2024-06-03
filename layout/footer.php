@@ -54,6 +54,7 @@
 </div>
 <!-- End Site Wrapper -->
 <!-- jQuery -->
+
 <script type="text/javascript" src="./assets/js/plugins/jquery.min.js"></script>
 <script type="text/javascript" src="./assets/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/moderniz.min.js"></script>

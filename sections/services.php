@@ -8,7 +8,8 @@
          <div class="row features-row wow fadeInUp">
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon <?=$cls;?>">
-                  <i class="icon-eyeglasses size-2x highlight"></i>
+                  <i class='fas fa-hamburger ' ></i>
+                  <i class="fa fa-cutlery size-2x highlight icon-size " ></i>
                   <i class="icon-eyeglasses back-icon "></i>
                </div>
                <div class="feature-info">
@@ -24,7 +25,7 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-                  <i class="icon-lock-open size-2x highlight"></i>
+                  <i class="fa fa-laptop size-2x highlight icon-size " ></i>
                   <i class="icon-lock-open back-icon"></i>
                </div>
                <div class="feature-info">
@@ -40,7 +41,7 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-                  <i class="icon-energy size-2x highlight"></i>
+                  <i class="fa fa-home size-2x highlight icon-size " ></i>
                   <i class="icon-energy back-icon"></i>
                </div>
                <div class="feature-info">
@@ -58,7 +59,7 @@
          <div class="row wow fadeInUp">
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-                  <i class="icon-settings size-2x highlight"></i>
+                  <i class=" icon-size fa fa-refresh size-2x highlight " ></i>
                   <i class="icon-settings back-icon"></i>
                </div>
                <div class="feature-info">
@@ -74,7 +75,7 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-                  <i class="icon-book-open size-2x highlight"></i>
+                  <i class="fa fa-plane size-2x highlight icon-size " ></i>
                   <i class="icon-book-open back-icon"></i>
                </div>
                <div class="feature-info">
@@ -90,7 +91,8 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-                  <i class="icon-support size-2x highlight"></i>
+               <i class="fa fa-phone size-2x highlight icon-size " ></i>
+
                   <i class="icon-support back-icon"></i>
                </div>
                <div class="feature-info">

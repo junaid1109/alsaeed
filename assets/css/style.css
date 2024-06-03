@@ -3866,4 +3866,9 @@ li {
 .feature-icon .icon-lock-open {
     float: right;
     margin-left: 10px; /* Adjust as needed */
+    font-size:40px;
+}
+
+.icon-size{
+    font-size:40px !important;
 }
