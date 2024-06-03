@@ -1,7 +1,32 @@
+<?php
+// Start session
+session_start();
+
+// Default language is Arabic
+$language = "ar";
+
+// Check if language is set in the query parameter
+if (isset($_GET['lang'])) {
+    $language = $_GET['lang'];
+    $_SESSION['language'] = $language; // Store language in session
+}
+
+// Include language file
+if ($language == "ar") {
+    include('lang/ar.php');
+    $cls = "ar";
+} else {
+    include('lang/en.php');
+    $cls = '';
+}
+?>
+
+
+
 <!DOCTYPE html>
 
 
-<html lang="en">
+<html lang="en"  >
 <head>
 <!-- Meta Data -->
 <meta charset="utf-8">

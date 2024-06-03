@@ -3847,3 +3847,24 @@ pre {
 	margin: -22px auto 0 auto;
 }
 
+li {
+    margin-bottom: 10px; /* Adjust as needed */
+}
+/* Styles for the Arabic list */
+/* Styles for the Arabic list */
+.ar {
+    direction: rtl; /* Set text direction to right-to-left */
+    text-align: right; /* Align the text to the right */
+}
+
+.ar li {
+    direction: rtl; /* Set text direction to right-to-left */
+    text-align: right; /* Align the text to the right */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.feature-icon .icon-lock-open {
+    float: right;
+    margin-left: 10px; /* Adjust as needed */
+}

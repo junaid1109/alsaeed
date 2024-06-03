@@ -46,23 +46,48 @@
             <ul class="nav navbar-nav  navbar-right">
                <li>
                   <a class="to-top">
-                     Home
-                  </a>
-               </li>
-               <li class="to-section">
-                  <a href="#about">
-                     About Us
+                     <?= $lang['home']; ?>
                   </a>
                </li>
                <li class="to-section">
                   <a href="#services">
-                     Services
+                  <?= $lang['services']; ?>
                   </a>
                </li>
                <li class="to-section">
-                  <a href="#contact">
-                     check
+                  <a href="#about">
+                  <?= $lang['about_us']; ?>
                   </a>
+               </li>
+
+               <li class="to-section">
+                  <a href="#story">
+                  <?= $lang['our_story']; ?>
+                  </a>
+               </li>
+
+               <li class="to-section">
+                  <a href="#mission">
+                  <?= $lang['mission']; ?>
+                  </a>
+               </li>
+
+               <li class="to-section">
+                  <a href="#vision">
+                  <?= $lang['vision']; ?>
+                  </a>
+               </li>
+              
+               <li class="to-section">
+                  <a href="#contact">
+                  <?= $lang['contact']; ?>
+                  </a>
+               </li>
+               <li class="to-section">
+               <select id="languageSelector" onchange="changeLanguage()">
+                  <option value="en" <?php if ($language == 'en') echo 'selected'; ?>>English</option>
+                  <option value="ar" <?php if ($language == 'ar') echo 'selected'; ?>>العربية</option>
+               </select>
                </li>
             </ul>
          </div>

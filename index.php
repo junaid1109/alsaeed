@@ -6,11 +6,17 @@
 
 <div class="site-wrapper content">
     
-<?php   include('sections/features.php'); ?>
+<?php   include('sections/services.php'); ?>
 
 <?php   include('sections/about.php'); ?>
 
-<?php   include('sections/facts.php'); ?>
+<?php   include('sections/story.php'); ?>
+
+<?php   include('sections/mission.php'); ?>
+
+<?php   include('sections/vision.php'); ?>
+
+<br>
 
 <?php   include('sections/quote.php'); ?>
 

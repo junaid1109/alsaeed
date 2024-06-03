@@ -11,25 +11,6 @@
                         is just that little extra! </span>
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </blockquote>
-                     <h4 class="quote-author highlight">Visual Team</h4>
-                  </div>
-                  <div>
-                     <blockquote>
-                        <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> A Perfect Design is made with Passion, Dedication,<br>
-                        and a lots of Coffee! </span>
-                        <i class="icon-right ion-quote ion-2x highlight"></i>
-                     </blockquote>
-                     <h4 class="quote-author highlight">Visual Team</h4>
-                  </div>
-                  <div>
-                     <blockquote>
-                        <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> What separates design from art is that design is<br>
-                        meant to be... functional. </span>
-                        <i class="icon-right ion-quote ion-2x highlight"></i>
-                     </blockquote>
-                     <h4 class="quote-author highlight">Visual Team</h4>
                   </div>
                </div>
             </div>

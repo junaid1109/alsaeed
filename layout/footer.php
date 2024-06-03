@@ -73,3 +73,10 @@
 <script type="text/javascript" src="./assets/js/scripts.js"></script>
 </body>
 </html>
+
+<script>
+    function changeLanguage() {
+        var selectedLanguage = document.getElementById("languageSelector").value;
+        window.location.href = "?lang=" + selectedLanguage;
+    }
+</script>
