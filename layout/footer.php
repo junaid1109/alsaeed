@@ -66,10 +66,7 @@
 <script type="text/javascript" src="./assets/js/plugins/cubeportfolio.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/owlcarousel.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/tweetie.min.js"></script>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js"></script>
-<script type="text/javascript" src="./assets/js/plugins/gmap3.min.js"></script>
 <script type="text/javascript" src="./assets/js/plugins/wow.min.js"></script>
-<script type="text/javascript" src="./assets/js/plugins/counterup.min.js"></script>
 <script type="text/javascript" src="./assets/js/scripts.js"></script>
 </body>
 </html>
