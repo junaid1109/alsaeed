@@ -1,5 +1,5 @@
  <!-- Start Features Section -->
- <section id="features">
+ <section id="services">
       <div class="container">
          <div class="col-md-12 text-center wow fadeInUp">
             <h3 class="section-title wow fadeInUp">What we do.</h3>
