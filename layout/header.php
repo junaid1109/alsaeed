@@ -61,7 +61,7 @@
                </li>
                <li class="to-section">
                   <a href="#contact">
-                     Contact
+                     check
                   </a>
                </li>
             </ul>
