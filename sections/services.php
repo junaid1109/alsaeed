@@ -10,7 +10,6 @@
                <div class="feature-icon <?=$cls;?>">
                   <i class='fas fa-hamburger ' ></i>
                   <i class="fa fa-cutlery size-2x highlight icon-size " ></i>
-                  <i class="icon-eyeglasses back-icon "></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['food_products']; ?></h4>
@@ -26,7 +25,6 @@
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
                   <i class="fa fa-laptop size-2x highlight icon-size " ></i>
-                  <i class="icon-lock-open back-icon"></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['technological_products']; ?></h4>
@@ -42,7 +40,6 @@
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
                   <i class="fa fa-home size-2x highlight icon-size " ></i>
-                  <i class="icon-energy back-icon"></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['household_products']; ?></h4>
@@ -60,7 +57,6 @@
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
                   <i class=" icon-size fa fa-refresh size-2x highlight " ></i>
-                  <i class="icon-settings back-icon"></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['refilling']; ?></h4>
@@ -76,7 +72,6 @@
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
                   <i class="fa fa-plane size-2x highlight icon-size " ></i>
-                  <i class="icon-book-open back-icon"></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['import_and_export']; ?></h4>
@@ -91,9 +86,7 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-               <i class="fa fa-phone size-2x highlight icon-size " ></i>
-
-                  <i class="icon-support back-icon"></i>
+               <i class="fa fa-phone size-2x highlight " ></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['free_support']; ?></h4>
