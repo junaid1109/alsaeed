@@ -86,7 +86,7 @@
             </div>
             <div class="col-md-4 col-sm-12 feature-column">
                <div class="feature-icon">
-               <i class="fa fa-phone size-2x highlight " ></i>
+               <i class="fa fa-phone size-2x highlight icon-size " ></i>
                </div>
                <div class="feature-info">
                   <h4 class="<?=$cls;?>"><?= $lang['free_support']; ?></h4>
