@@ -36,8 +36,8 @@
             <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand to-top" rel="home" href="#">
-               <img src="./assets/img/assets/logo-white.png" alt="Visual" class="logo-big">
-               <img src="./assets/img/assets/logo-dark.png" alt="Visual" class="logo-small">
+               <img src="./assets/img/assets/logo-dark.webp" alt="Alsaeed" class="logo-big">
+               <img src="./assets/img/assets/logo-dark.webp" alt="Alsaeed" class="logo-small">
             </a>
          </div>
          

@@ -70,8 +70,8 @@
 </html>
 
 <script>
-    function changeLanguage() {
+      function changeLanguage() {
         var selectedLanguage = document.getElementById("languageSelector").value;
         window.location.href = "?lang=" + selectedLanguage;
-    }
+      }
 </script>
