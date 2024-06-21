@@ -35,6 +35,8 @@ if ($language == "ar") {
 <title>Alsaeed Trad</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+<link rel="shortcut icon" href="./assets/img/assets/fiv.png" type="image/x-icon">
+
 <!-- Stlylesheet -->
 <link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.min.css" type="text/css" />
 <link rel="stylesheet" href="./assets/css/font-awesome/css/font-awesome.css" type="text/css" />
